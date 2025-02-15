@@ -17,13 +17,14 @@ This **Streamlit-based web app** allows users to compare an **original** and a *
 git clone https://github.com/yourusername/pan-tampering-detection.git
 cd pan-tampering-detection
 
-**### Install Dependencies**
+## 🛠️ Installation  
+
+### 🔹 Prerequisites  
+Make sure you have **Python 3.7+** installed.  
+
+### 🔹 Clone the repository  
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/yourusername/pan-tampering-detection.git
+cd pan-tampering-detection
 
-
-**### Run the app** 
-```bash
-streamlit run app.py
-
-**### Requirements**
+### 🔹 Install dependencies
